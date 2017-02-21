@@ -44,3 +44,4 @@ bindkey -s "^[Oo" "/"
 
 unsetopt CORRECT
 export EDITOR=vim
+unalias rm
